@@ -5,6 +5,6 @@ Usage: <code>python sortere2osm.py [input_filename.json] > output_filename.osm</
 
 If no input file is given data will be loaded from the Sortere.no API
 
-Recycling containers with same coordinates will be merged.
+Recycling containers with identical coordinates will be merged.
 
 Wiki: [Recycling Import Norway](https://wiki.openstreetmap.org/wiki/Import/Catalogue/Recycling_Import_Norway)
