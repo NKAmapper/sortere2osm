@@ -8,3 +8,5 @@ If no input file is given data will be loaded from the Sortere.no API
 Recycling containers with identical coordinates will be merged.
 
 Wiki: [Recycling Import Norway](https://wiki.openstreetmap.org/wiki/Import/Catalogue/Recycling_Import_Norway)
+
+API: [data.sortere.no/api/docs/](http://data.sortere.no/api/docs/)
