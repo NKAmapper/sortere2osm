@@ -162,7 +162,7 @@ if __name__ == '__main__':
 	message ("sortere2osm %s\n" % version)
 	message ("Reading data... ")
 
-	filename = 'https://data.sortere.no/api/v3/kartpunkter?api_key=7qU6JKk4DF&limit=100000'
+	filename = 'https://data.sortere.no/api/v3/kartpunkter?api_key=*******&limit=100000'
 	
 	if len(sys.argv) > 1:
 		filename = sys.argv[1]
