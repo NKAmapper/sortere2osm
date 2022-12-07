@@ -1,6 +1,8 @@
 # sortere2osm
 Converts recycling centres and containers from sortere.no to OSM.
 
+_Update: This data source is no longer available._
+
 Usage: <code>python sortere2osm.py [input_filename.json] > output_filename.osm</code>.
 
 If no input file is given, data will be loaded from the sortere.no API.
